@@ -4,14 +4,13 @@
 
 <p></p>
 
-<div align="center">
+<div>
   <img src="https://img.shields.io/badge/C++-language-blue?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/JAVA-language-red?style=for-the-badge" /></a>&emsp;
+  <img src="https://img.shields.io/badge/JavaScript-language-yellow?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/TypeScript-language-yellow?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/Python-language-green?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/Go-language-orange?style=for-the-badge" />&emsp;
-</div>
-<div align="center">
   <img src="https://img.shields.io/badge/React-framework-purple?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/Vue-framework-brightgreen?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/Spring-framework-black?style=for-the-badge" />&emsp;
