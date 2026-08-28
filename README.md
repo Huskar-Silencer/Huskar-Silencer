@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/React-framework-purple?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/Vue-framework-brightgreen?style=for-the-badge" />&emsp;
   <img src="https://img.shields.io/badge/Spring-framework-black?style=for-the-badge" />&emsp;
+  <img src="https://img.shields.io/badge/Mysql-Database-white?style=for-the-badge" />&emsp;
 </div>
 
 [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Huskar-Silencer&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=Huskar-Silencer&layout=compact&langs_count=4&theme=blue_navy)
