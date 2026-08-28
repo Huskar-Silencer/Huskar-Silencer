@@ -20,10 +20,14 @@
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
 </p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Huskar-Silencer&color=blue&style=flat-square" alt="Profile Views" />
+</p>
+
 <p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
-  <img src="https://github-stats-extended.vercel.app/api?username=Huskar-Silencer&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy" 
+  <!-- <img src="https://github-stats-extended.vercel.app/api?username=Huskar-Silencer&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy" 
        alt="GitHub Stats" 
-       style="height: 195px; width: auto; object-fit: cover;" />
+       style="height: 195px; width: auto; object-fit: cover;" /> -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Huskar-Silencer&layout=compact&langs_count=6&theme=blue_navy" 
        alt="Top Langs" 
        style="height: 195px; width: auto; object-fit: cover;" />
