@@ -16,12 +16,7 @@
   <img src="https://img.shields.io/badge/Spring-framework-black?style=for-the-badge" />&emsp;
 </div>
 
-<div align="center">
-  <a href="https://github.com/Huskar-Silencer">
-    <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Huskar-Silencer&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=solarized-dark"/>
-    <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs?username=Huskar-Silencer&layout=compact&langs_count=4&theme=solarized-dark"/>
-  </a>
-</div>
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Huskar-Silencer&layout=compact&langs_count=4&theme=blue_navy)](https://github-stats-extended.vercel.app/api/top-langs?username=Huskar-Silencer&layout=compact&langs_count=4&theme=blue_navy)
 
 <!--
 **Huskar-Silencer/Huskar-Silencer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
