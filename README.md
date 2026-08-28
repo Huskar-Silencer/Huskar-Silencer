@@ -18,10 +18,9 @@
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D" alt="Vue.js" />
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
 </p>
 
-<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: nowrap;">
+<p align="center" style="display: flex; justify-content: center; align-items: center; gap: 10px; flex-wrap: nowrap;">
   <img src="https://github-stats-extended.vercel.app/api?username=Huskar-Silencer&rank_icon=github&hide_title=true&show_icons=true&include_all_commits=true&theme=blue_navy" 
        alt="GitHub Stats" 
        style="height: 195px; width: auto; object-fit: cover;" />
